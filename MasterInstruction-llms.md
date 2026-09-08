@@ -1,3 +1,19 @@
+# Master Instruction (Legacy / Clip 2 Seed)
+
+This file originally contained the Clip 2 instruction.  
+It has been superseded by the full system but is preserved for reference.
+
+**Authoritative versions are now:**
+
+- `VIDEO_MASTER.md`
+- `CLIP_CONTINUITY_PROTOCOL.md`
+- `VIDEO_PROMPT_TEMPLATE.md`
+- `campaigns/northstar/emergency-backup/CLIP_02.md`
+
+---
+
+## Original Clip 2 Content (Preserved)
+
 CLIP 2 — 0:10–0:20
 
 CONTINUE DIRECTLY FROM THE FINAL FRAME OF CLIP 1.
